@@ -1,0 +1,33 @@
+22.9097 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000182F0C97D00>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000182F0C97CA0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000182F0C97B20>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x00000182F607B370>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=1, size=array([1920, 1080]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+22.9098 	EXP 	window1: mouseVisible = True
+22.9098 	EXP 	window1: backgroundImage = ''
+22.9098 	EXP 	window1: backgroundFit = 'none'
+22.9107 	EXP 	window1: Attempting to measure frame rate of screen (1) ...
+22.9107 	EXP 	window1: recordFrameIntervals = False
+23.0760 	EXP 	window1: recordFrameIntervals = True
+23.2596 	EXP 	Screen (1) actual frame rate measured at 59.98Hz
+23.2596 	EXP 	window1: recordFrameIntervals = False
+23.2597 	EXP 	window1: mouseVisible = False
+25.0490 	EXP 	routeFourExP: status = STARTED
+25.0850 	EXP 	window1: mouseVisible = True
+25.6902 	EXP 	window1: mouseVisible = True
+25.6926 	EXP 	Created SpanishRepeat01_noPedal = Line(__class__=<class 'psychopy.visual.line.Line'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([0, 0, 0]), fillColorSpace='rgb', fillRGB=array([0, 0, 0]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='SpanishRepeat01_noPedal', opacity=0.0, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+25.6927 	EXP 	window1: mouseVisible = True
+25.6939 	EXP 	Created bikebuddy_SlowRepeat01 = Line(__class__=<class 'psychopy.visual.line.Line'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([0, 0, 0]), fillColorSpace='rgb', fillRGB=array([0, 0, 0]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='bikebuddy_SlowRepeat01', opacity=0.0, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+25.6940 	EXP 	window1: mouseVisible = True
+25.6951 	EXP 	Created bikebuddy_FastRepeat01 = Line(__class__=<class 'psychopy.visual.line.Line'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=None, depth=-3.0, draggable=False, fillColor=array([0, 0, 0]), fillColorSpace='rgb', fillRGB=array([0, 0, 0]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='bikebuddy_FastRepeat01', opacity=0.0, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+0.0376 	EXP 	RouteFour: autoLog = True
+0.0656 	EXP 	RouteFour: autoDraw = True
+72.0155 	EXP 	SpanishRepeat01_noPedal: autoDraw = True
+84.0144 	EXP 	SpanishRepeat01_noPedal: autoDraw = False
+131.0144 	EXP 	bikebuddy_SlowRepeat01: autoDraw = True
+142.0146 	EXP 	bikebuddy_SlowRepeat01: autoDraw = False
+150.0146 	EXP 	bikebuddy_FastRepeat01: autoDraw = True
+154.0146 	EXP 	bikebuddy_FastRepeat01: autoDraw = False
+1753.3024 	EXP 	RouteFour: autoDraw = False
+1753.3024 	EXP 	RouteFour: autoDraw = False
+1753.3024 	EXP 	SpanishRepeat01_noPedal: autoDraw = False
+1753.3024 	EXP 	bikebuddy_SlowRepeat01: autoDraw = False
+1753.3024 	EXP 	bikebuddy_FastRepeat01: autoDraw = False
+1753.3024 	EXP 	routeFourExP: status = STOPPED
+1753.3998 	EXP 	window1: mouseVisible = True
